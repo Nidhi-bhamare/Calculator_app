@@ -1,1 +1,2 @@
-# Calculator_app
+# calculator_app
+The calculator project built with React allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and interactive UI, where users can input numbers and select operations. React’s state management is used to handle user input and update the display dynamically. The project focuses on creating a simple, responsive, and efficient calculator with React’s component-based structure.
